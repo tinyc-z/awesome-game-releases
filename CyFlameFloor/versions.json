@@ -5,8 +5,8 @@
     "url": "https://github.com/tinyc-z/awesome-game-releases/archive/refs/tags/1.5.4.zip"
   },
   {
-    "version": "1.5.5-2",
+    "version": "1.5.5",
     "description": "Added new monster types (Fire, Ice) and optimized performance.",
-    "url": "https://github.com/tinyc-z/awesome-game-releases/archive/refs/tags/CyFlameFloor.zip"
+    "url": "https://github.com/tinyc-z/awesome-game-releases/releases/download/CyFlameFloor/CyFlameFloor-1.5.5-win.zip"
   }
 ]
